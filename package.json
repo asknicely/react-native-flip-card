@@ -31,7 +31,7 @@
     "url": "https://github.com/moschan/react-native-flip-card/issues"
   },
   "homepage": "https://github.com/moschan/react-native-flip-card#readme",
-  "devDependencies": {
+  "dependencies": {
     "prop-types": "^15.5.10"
   }
 }
